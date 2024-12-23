@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.utils import executor
 
-API_TOKEN = "5495288009:AAE2Pg5-jBe9PgysBSSgYRxJG5f-sKcjlzg"
+API_TOKEN = "YOUR_TELEGRAM_TOKEN"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
